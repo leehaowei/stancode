@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of stanCode
 
 Watch my *[DEMO VIDEO].()*
 
-## Project Source Codes:\
+## Project Source Codes:
 *[Hangman Game](https://github.com/leehaowei/stanCode_projects/blob/main/stanCode_Projects/hangman_game/hangman.py)
   * python semantics & syntax
 *[Weather Master](https://github.com/leehaowei/stanCode_projects/blob/main/stanCode_Projects/weather_master/weather_master.py)
