@@ -11,11 +11,11 @@ Watch my *[DEMO VIDEO].()*
   * python semantics & syntax
 * [My Drawing](https://github.com/leehaowei/stanCode_projects/blob/main/stanCode_Projects/my_drawing/my_drawing.py)
   * Object Oriented Programming - Python Class
-* [Pedestrian Removing Application]
+* [Pedestrian Removing Application](https://github.com/leehaowei/stanCode_projects/blob/main/stanCode_Projects/pedestrian_removing_application/stanCodoshop.py)
   * image processing
-* [Breakout Game]
+* [Breakout Game](https://github.com/leehaowei/stanCode_projects/blob/main/stanCode_Projects/break_out_game/breakout_ext.py)
   * animation & game designing
-* [Name Popularity Searching Syatem]
+* [Name Popularity Searching System]
   * data structure
 * [Boggle Game Solver]
   * recursive functions
