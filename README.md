@@ -1,5 +1,4 @@
 ## *stanCode* Projects
-Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
 Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1OcpbSiJDCqI_P677wg9tTLFvS9IbneNE?usp=sharing)*
