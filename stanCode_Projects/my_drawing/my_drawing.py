@@ -1,10 +1,3 @@
-"""
-File: 
-Name:
-----------------------
-TODO:
-"""
-
 from campy.graphics.gobjects import GOval, GRect, GPolygon, GArc, GLine, GLabel
 from campy.graphics.gwindow import GWindow
 
